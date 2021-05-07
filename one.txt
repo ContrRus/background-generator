@@ -1,1 +1,2 @@
 My first message ever on gitHub
+Well I've added the second line of the text
